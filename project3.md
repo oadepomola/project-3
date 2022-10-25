@@ -73,6 +73,6 @@
 
 `node index`
 
-![touch api](./images/touch api.png)
+![touch-api](./images/touch-api.png)
 
-![cat index](./images/cat index.PNG)
+![cat-index](./images/cat-index.PNG)
